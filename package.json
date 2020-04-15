@@ -1,0 +1,22 @@
+{
+  "name": "httpverbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomSpencerLondon/HTTPVerbPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomSpencerLondon/HTTPVerbPractice/issues"
+  },
+  "homepage": "https://github.com/TomSpencerLondon/HTTPVerbPractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
